@@ -22,8 +22,6 @@ cask lastpass
 cask logitech-control-center
 cask logitech-options
 cask macs-fan-control
-cask mactex
-cask rstudio
 cask sdformatter
 cask seil
 cask sharemouse
